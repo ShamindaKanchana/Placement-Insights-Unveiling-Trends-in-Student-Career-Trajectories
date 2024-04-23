@@ -27,8 +27,8 @@ In the "Analyze" phase, we gained insights from visualizations generated from th
 
 1. **Gender Distribution:** We observed that approximately 65% of the students in the dataset are male, indicating a bias towards male students in the data.
 
-   ![Gender Distribution](../Scs/gender_distribution.png)
+![Gender Distribution](Scs/gender_distribution.png)
 
 2. **Stream Distribution:** The 'hsc_s' column categorizes students into three streams: Commerce, Science, and Arts. From the bar graph below, we can see that the majority of students have studied Commerce, followed by Science and Arts. Additionally, there is a noticeable gender disparity within each stream, with Commerce having a higher percentage of male students compared to Science and Arts.
 
-![Stream Distribution](../Scs/stream_distribution.png)
+![Stream Distribution](Scs/stream_distribution.png)
