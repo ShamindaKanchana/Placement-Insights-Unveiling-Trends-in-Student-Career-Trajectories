@@ -16,6 +16,6 @@ In the "Ask" phase, we formulated key questions to guide our analysis:
 - How does salary affect job preferences among students?
 
 ### Prepare
-In the "Prepare" phase, we acquired a dataset from Kaggle to address these questions. Despite its limited size, we assumed the dataset to be sufficiently accurate for our analytical purposes. This dataset formed the foundation for our exploration and analysis of educational and employment trends.
+In the "Prepare" phase, we acquired a dataset from [Kaggle](https://www.kaggle.com/datasets/benroshan/factors-affecting-campus-placement) to address these questions. Despite its limited size, we assumed the dataset to be sufficiently accurate for our analytical purposes. This dataset formed the foundation for our exploration and analysis of educational and employment trends.
 
 
