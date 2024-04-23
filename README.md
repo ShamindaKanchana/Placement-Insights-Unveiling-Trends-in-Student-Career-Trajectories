@@ -21,3 +21,14 @@ In the "Prepare" phase, we acquired a dataset from [Kaggle](https://www.kaggle.c
 
 ### Process
 In the "Process" phase, we thoroughly examined the dataset for cleanliness and consistency. We checked for null values and duplications and found that there were no null values except in the 'salary' column. Although the 'salary' column had a considerable percentage of null values, removing these rows would significantly impact our analysis. Therefore, we decided to retain the rows with null values in the 'salary' column, as the remaining columns were free of nulls. Overall, we concluded that the dataset was mostly cleaned and suitable for analysis.
+
+### Analyze
+In the "Analyze" phase, we gained insights from visualizations generated from the dataset. Here are some key insights:
+
+1. **Gender Distribution:** We observed that approximately 65% of the students in the dataset are male, indicating a bias towards male students in the data.
+
+   ![Gender Distribution](../Scs/gender_distribution.png)
+
+2. **Stream Distribution:** The 'hsc_s' column categorizes students into three streams: Commerce, Science, and Arts. From the bar graph below, we can see that the majority of students have studied Commerce, followed by Science and Arts. Additionally, there is a noticeable gender disparity within each stream, with Commerce having a higher percentage of male students compared to Science and Arts.
+
+![Stream Distribution](../Scs/stream_distribution.png)
