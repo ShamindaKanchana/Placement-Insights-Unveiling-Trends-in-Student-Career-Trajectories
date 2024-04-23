@@ -19,3 +19,5 @@ In the "Ask" phase, we formulated key questions to guide our analysis:
 In the "Prepare" phase, we acquired a dataset from [Kaggle](https://www.kaggle.com/datasets/benroshan/factors-affecting-campus-placement) to address these questions. Despite its limited size, we assumed the dataset to be sufficiently accurate for our analytical purposes. This dataset formed the foundation for our exploration and analysis of educational and employment trends.
 
 
+### Process
+In the "Process" phase, we thoroughly examined the dataset for cleanliness and consistency. We checked for null values and duplications and found that there were no null values except in the 'salary' column. Although the 'salary' column had a considerable percentage of null values, removing these rows would significantly impact our analysis. Therefore, we decided to retain the rows with null values in the 'salary' column, as the remaining columns were free of nulls. Overall, we concluded that the dataset was mostly cleaned and suitable for analysis.
