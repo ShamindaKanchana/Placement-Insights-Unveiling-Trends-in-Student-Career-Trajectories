@@ -38,3 +38,37 @@ In the "Analyze" phase, we gained insights from visualizations generated from th
 
    
     ![Bar Chart: Gender Distribution in Specializations and Pie chart](Scs/specialization_distribution.png)
+
+
+
+#### Degree Program Choice by Secondary Education Stream
+
+When considering how students choose their degree programs based on their secondary education streams, we found the following trends:
+
+1. **Science Stream:**
+   - Students who have completed science subjects in secondary education have chosen a diverse range of degree programs. A significant portion of these students opted for Science and Technology-related degrees, indicating a natural progression in their academic interests.
+   - Additionally, a considerable number of science students also pursued Commerce and Management degrees, showcasing their versatility in career options.
+   - Despite their science background, some students also ventured into other degree paths, demonstrating their willingness to explore different fields.
+
+2. **Commerce Stream:**
+   - Students from the commerce stream predominantly chose Commerce and Management-related degree programs. However, there was a notable lack of interest in Science and Technology-related degrees among commerce students.
+   - While commerce students showed a preference for commerce and management degrees, they rarely pursued other degree paths, suggesting a more focused career trajectory.
+
+3. **Arts Stream:**
+   - Arts students primarily focused on commerce-related degree paths, with very few opting for Science and Technology degrees.
+   - The narrow focus of arts students on commerce-related degrees indicates a limited range of career options compared to science students.
+
+#### Insights and Implications
+
+Based on the above observations, we can draw several insights:
+
+- Students who have completed science subjects in secondary education exhibit a broader range of career options, as evidenced by their diverse choice of degree programs.
+- Commerce students, while focused on commerce and management degrees, may benefit from exploring other degree paths to expand their career prospects.
+- Arts students, with their limited interest in science-related degrees, may have fewer opportunities for careers in science and technology fields.
+
+
+ ![Degree Program Choice by Secondary Education Stream](Scs/degree_t_chart.png)
+
+**Conclusion:**
+Overall, the preferred stream for higher education appears to be science, as it offers students the flexibility to pursue various career paths. Conversely, students from commerce and arts streams may benefit from exploring diverse degree programs to broaden their career horizons.
+
