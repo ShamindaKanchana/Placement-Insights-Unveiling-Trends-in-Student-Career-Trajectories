@@ -32,3 +32,9 @@ In the "Analyze" phase, we gained insights from visualizations generated from th
 2. **Stream Distribution:** The 'hsc_s' column categorizes students into three streams: Commerce, Science, and Arts. From the bar graph below, we can see that the majority of students have studied Commerce, followed by Science and Arts. Additionally, there is a noticeable gender disparity within each stream, with Commerce having a higher percentage of male students compared to Science and Arts.
 
 ![Stream Distribution](Scs/stream_distribution.png)
+
+
+3. **Specializations Analysis:** Upon examining the Specializations in our dataset, we observe that students are categorized into two main types: Marketing and Finance, and Marketing and HR. The majority of students have specialized in Marketing and Finance, while others have chosen Marketing and HR. Interestingly, there is a notable gender disparity in the choice of specializations, with a higher percentage of boys specializing in Management and Finance compared to girls.
+
+   
+   ![Bar Chart: Gender Distribution in Specializations and Pie chart](Sc/specialization_distribution.png)
