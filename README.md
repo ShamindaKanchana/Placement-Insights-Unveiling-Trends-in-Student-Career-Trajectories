@@ -91,3 +91,6 @@ Overall, the preferred stream for higher education appears to be science, as it 
 
   (Add any additional insights or interpretations here)
 
+
+## Conclusion
+Our analysis reveals important insights into educational and employment trends among students. Gender, educational streams, and quantitative variables such as percentages in secondary school, higher secondary school, and degrees play significant roles in shaping career choices and outcomes.
