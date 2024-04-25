@@ -72,3 +72,22 @@ Based on the above observations, we can draw several insights:
 **Conclusion:**
 Overall, the preferred stream for higher education appears to be science, as it offers students the flexibility to pursue various career paths. Conversely, students from commerce and arts streams may benefit from exploring diverse degree programs to broaden their career horizons.
 
+
+
+
+
+- **Correlation Between Quantitative Variables:**
+
+  When considering the percentages in secondary school (ssc_p), higher secondary school (hsc_p), and degree (degree_p), we observed the following correlations:
+  
+  - Moderate correlation between ssc_p and degree_p.
+  - Moderate correlation between ssc_p and hsc_p.
+  - Moderate correlation between hsc_p and degree_p.
+  - Moderate correlation between degree_p and mba_p.
+  
+  Other factors showed weaker correlations with each other. These findings suggest that ssc_p and degree_p have the strongest association among the variables analyzed. For more detailed insights, refer to the heatmap below.
+
+  ![Correlation Heatmap](Scs/correlation_heatmap.png)
+
+  (Add any additional insights or interpretations here)
+
